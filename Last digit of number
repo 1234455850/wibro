@@ -1,1 +1,16 @@
 
+import java.io.*;
+import  java.util.*;
+class UserMaincode
+{
+  public int lastdigit(int input1){
+  if(input1<0){
+   input1*=input1;
+   return input1%10;
+   }
+  else{
+    input1*=input1;
+   return input1%10;
+   }
+   }
+   }
